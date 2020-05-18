@@ -1,6 +1,6 @@
 **<u># Growth Mindset </u>**
 
-*Growth mindset is a way of thinking that allows you to always keep learning.* 
+##*Growth mindset is a way of thinking that allows you to always keep learning.* 
 
 To stay in a growth mindset 
 1. I can always be looking for ways to improve a project or find a way to do it better.
