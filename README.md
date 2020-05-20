@@ -4,5 +4,6 @@
 
 ### Table of Contents
 * [Reminders](Reminders.md)
-* [Markdown](read01Markdown.md)
-
+* [Read01 Markdown](read01Markdown.md)
+* [Read03 Revisions and the Cloud](read03CloudRevision.md)
+* [Read04 Structure web pages with HTML](read04html.md)
