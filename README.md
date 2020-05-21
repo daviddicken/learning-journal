@@ -9,3 +9,4 @@
 * [Read04 Structure web pages with HTML](read04html.md)
 * [Read05 Colors](read05color.md)
 * [Read06a Dynamic web pages](read6a.md)
+* [Read06b How a Computer works](read6b.md)
