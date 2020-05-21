@@ -7,3 +7,4 @@
 * [Read01 Markdown](read01Markdown.md)
 * [Read03 Revisions and the Cloud](read03CloudRevision.md)
 * [Read04 Structure web pages with HTML](read04html.md)
+* [Read05 Colors](read05color.md)
