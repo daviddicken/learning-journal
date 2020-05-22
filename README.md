@@ -10,3 +10,4 @@
 * [Read05 Colors](read05color.md)
 * [Read06a Dynamic web pages](read6a.md)
 * [Read06b How a Computer works](read6b.md)
+* [Read07 Programing with JavaScript](read07.md)
