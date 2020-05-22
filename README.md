@@ -11,3 +11,4 @@
 * [Read06a Dynamic web pages](read6a.md)
 * [Read06b How a Computer works](read6b.md)
 * [Read07 Programing with JavaScript](read07.md)
+* [Read08 Operators and Loop](read08.md)
